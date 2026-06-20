@@ -212,7 +212,7 @@ java  --module-path mods -m app.ui/com.bookstore.ui.Main
 |:---:|:---|:---|
 | 1 | _Dimas Maycardo Sihotang_ | _202333500844_ |
 | 2 | _Rianca Aril Pratama_ | _202333500851_ |
-| 3 | _Muhammad Jalaluddin Gassing_ | _2023335008585_ |
+| 3 | _Muhammad Jalaluddin Gassing_ | _202333500858_ |
 
 </div>
 
